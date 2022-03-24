@@ -1,1 +1,8 @@
-token.py
+# folders
+__pycache__
+.DS_Store
+src
+
+# files
+token_v2.py
+already_recorded.pickle
